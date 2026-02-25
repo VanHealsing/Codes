@@ -1,0 +1,230 @@
+<style type="text/css">
+
+@import url('https://fonts.googleapis.com/css?family=Carrois+Gothic+SC|Rock+Salt|Meddon|New+Rocker|Metal+Mania|');
+
+.pfor {display: none;}
+#profile {background-color: transparent;}
+#profile {border: 0px;}
+body, a:hover {cursor: url(http://cur.cursors-4u.net/others/oth-6/oth661.cur), progress !important;}
+body {background-image:url("img"); background-attachment:fixed; background-color: #E3B8BE;}
+
+
+::-webkit-scrollbar {width: 0px;}
+::-webkit-scrollbar-track {rgba(0,0,0,0.4); border-radius: 10px;}
+::-webkit-scrollbar-thumb {border-radius: 1px; rgba(0,0,0,0.5);}
+::-webkit-scrollbar-track-piece {background-color: #111111;}
+::-webkit-scrollbar-thumb:vertical {height: 20px; background-color: #990000;} 
+
+
+.maintitle { font-family: Rock Salt; font-size: 35px; color: #EBB964; text-shadow: 0px 0px 5px #EBB964;}
+
+.maintitle2 { font-family: Rock Salt; font-size: 10px; color: #EBB964; text-shadow: 0px 0px 5px #EBB964;}
+
+.border-pic {
+ border-radius: 0px;
+ border: 0px solid #5D6FAD;
+ padding: 15px;
+ background-color: rgba(250, 250, 250, 0.3);
+}
+
+.border-pic2 {
+ border-radius: 0px;
+ padding: 8px;
+ opacity: 0.7;
+ background-color: rgba(250, 250, 250, 0.5);
+}
+
+
+.active {
+ background-color: rgba(0,0,0,.8);
+ curser: pointer;
+ color: cyan;
+ transition: .5s;
+}
+ 
+a {
+ text-decoration: none;
+ color: #D9ADBD;
+ text-shadow: 2px 2px 2px #E92C44;
+}
+ 
+a:hover {
+ color: #E92C44;
+ transition: .5s;
+}
+
+.clickable {
+display:inline;
+text-decoration: none;
+border: 0px solid #0fd1b7;
+border-bottom: 0px solid #0fd1b7;
+border-radius: 0px 0px 0px 0px;
+margin-right:24px;
+cursor:pointer;
+background-color: #none;
+padding: 0px;
+color: #3358bd;
+letter-spacing: 3px; font-size: 10px; text-align: right; font-family: Carrois Gothic SC;
+}
+
+a:hover {
+background-color: #none;
+font-family: Carrois Gothic SC;
+color: #E92C44;
+letter-spacing: 0px;
+text-decoration: none;
+transition:all 1s ease-out;
+-o-transition:all 1s ease-in-out;
+-moz-transition:all 1s ease-in-out;
+-webkit-transition:all 1s ease-in-out;
+opacity: 1; 
+filter:alpha(opacity=20); -moz-opacity: 0.9; 
+-webkit-transition: all 0.9s ease; 
+-moz-transition: all 0.9s ease; 
+-o-transition: all 0.9s ease;
+}
+
+
+img {opacity: 1; 
+filter:alpha(opacity=20); -moz-opacity: 0.2; 
+-webkit-transition: all 0.9s ease; 
+-moz-transition: all 0.9s ease; 
+-o-transition: all 0.9s ease;}
+
+img:hover {opacity: 1; filter:alpha(opacit
+y=100); -moz-opacity: 1; -webkit-transition
+: all 0.9s ease; -moz-transition: all 0.9s 
+ease; -o-transition: all 0.9s ease;}
+
+
+
+B2 {
+font-family: Metal Mania;
+color: #FF0045;
+letter-spacing: 3pt;
+text-transform: lowercase;
+text-shadow: 0px 0px 0px #FF0045; 
+}
+
+
+</style>
+
+
+
+
+
+
+
+
+
+
+
+<DIV style="position: fixed; top:105px; left:20px;">
+
+<img src="https://i.imgur.com/NpDqPSD.png" width="450px">
+
+</div>
+
+
+
+
+<DIV style="position: fixed; top:135px; left:460px;">
+
+<img class="border-pic2" src="https://i.imgur.com/W5VLoty.png" height="100px">
+
+</div>
+
+
+<DIV style="position: fixed; top:260px; left:460px;">
+
+<img class="border-pic2" src="https://i.imgur.com/4HFhkMA.png" height="100px">
+
+</div>
+
+
+<DIV style="position: fixed; top:385px; left:460px;">
+
+<img class="border-pic2" src="https://i.imgur.com/CISrAy7.png" height="100px">
+
+</div>
+
+
+<DIV style="position: fixed; top:510px; left:460px;">
+
+<img class="border-pic2" src="https://i.imgur.com/ljuICZd.png" height="100px">
+
+</div>
+
+
+
+
+
+
+<DIV style="position: fixed; top:135px; left:590px;height:25px">
+
+
+<div style="width: 250px; height: 460px; background-color: rgba(250, 250, 250, 0.3); border: 0px solid #1f4ecf; padding: 15px; overflow:auto;">
+
+
+<div align="justify">
+<font face="Carrois Gothic SC" color="#741D32" size="2pt">
+
+
+
+<div style="border-top: 3px solid #E92C44"></div>
+
+<br><b>
+
+<span style="float:left;"><B2>Name</B2></span>
+<span style="float:right;">Velvet</span>
+<br><span style="float:left;"><B2>Gender</B2></span>
+<span style="float:right;">Female</span>
+<br><span style="float:left;"><B2>Speices</B2></span>
+<span style="float:right;">Doll Demon</span>
+<br><span style="float:left;"><B2>Occupation</B2></span>
+<span style="float:right;">Overlord</span>
+<br><span style="float:left;"><B2>Orientation</B2></span>
+<span style="float:right;">Pansexual</span>
+<br><span style="float:left;"><B2>Status</B2></span>
+<span style="float:right;">Single</span>
+<br><span style="float:left;"><B2>Instagram</B2></span>
+<span style="float:right;"><a target="_blank" href="https://www.instagram.com/radvelvetcakes">radvelvetcakes</a> </span>
+
+
+<br><br>
+<div style="border-top: 3px solid #E92C44"></div>
+<br><b>
+Velvet is the energetic, stylish and trendy type who is always up-to-date with the latest trends and technology. This is one of the main reasons why she and Vox get along quite well with each other. She is also described as a very crazy person. Velvet is said to be good with food and potion making. [More will be added as more information is obtained.]
+<br>
+<br>
+<div style="border-top: 3px solid #E92C44"></div>
+<br>
+<center>
+
+<a target="_blank" href="https://1.roleplay.chat/profile.php?user=valentino"><img src="https://i.imgur.com/GDUtEDa.png" alt="https://1.roleplay.chat/profile.php?user=valentino" title="Val~" height="60" width="60"/></a>
+
+<a target="_blank" href="https://1.roleplay.chat/profile.php?user=V0X"><img src="https://static.zerochan.net/Vox.%28Hazbin%29.full.2881257.png" alt="https://1.roleplay.chat/profile.php?user=V0X" title="Vox~" height="60" width="60"/></a>
+
+<a target="_blank" href="https://1.roleplay.chat/profile.php?user=USERNAME"><img src="img" alt="https://1.roleplay.chat/profile.php?user=USERNAME" title="desc" height="60" width="60"/></a>
+
+<a target="_blank" href="https://1.roleplay.chat/profile.php?user=USERNAME"><img src="img" alt="https://1.roleplay.chat/profile.php?user=USERNAME" title="desc" height="60" width="60"/></a>
+
+<a target="_blank" href="https://1.roleplay.chat/profile.php?user=USERNAME"><img src="img" alt="https://1.roleplay.chat/profile.php?user=USERNAME" title="desc" height="60" width="60"/></a>
+
+<a target="_blank" href="https://1.roleplay.chat/profile.php?user=USERNAME"><img src="img" alt="https://1.roleplay.chat/profile.php?user=USERNAME" title="desc" height="60" width="60"/></a>
+</center>
+<br>
+
+<div style="border-top: 3px solid #E92C44"></div>
+<br>
+<b2>O.O.C.</B> ; <br>
+<b>♥</b> DM Friendly <br>
+<b>♥</b> Valentino and Vox will have priority. <br>
+<b>♥</b> Velvet is crazy, I'm not. <br>
+<b>♥</b> Smut is pretty unlikely <br>
+<b>♥</b> If you're made of cake, she will find out. <br>
+</font>
+</div>
+</div>
+</div> 
+</DIV>
