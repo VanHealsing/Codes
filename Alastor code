@@ -1,0 +1,200 @@
+<style type="text/css">
+
+@import url('https://fonts.googleapis.com/css?family=Iceland|Parisienne|Just+Me+Again+Down+Here');
+
+.pfor {display: none;}
+#profile {background-color: transparent;}
+#profile {border: 0px;}
+body, a:hover {cursor: url(https://cur.cursors-4u.net/cursors/cur-9/cur817.cur), progress !important;}
+body {background-image: linear-gradient(#170000, #111111); background-attachment:fixed;background-color: #111111;}
+
+
+::-webkit-scrollbar {width: 3px;}
+::-webkit-scrollbar-track {rgba(0,0,0,0.4); border-radius: 10px;}
+::-webkit-scrollbar-thumb {border-radius: 1px; rgba(0,0,0,0.5);}
+::-webkit-scrollbar-track-piece {background-color: #2E0200;}
+::-webkit-scrollbar-thumb:vertical {height: 20px; background-color: #080808;} 
+
+
+.subtitle { font-family: Parisienne; font-size: 65px; color: #000000; letter-spacing: 2pt; text-align: center; background-color: #none; padding: 0px 10px 5px 10px; text-shadow: 0px 3px 2px #7e0000;}
+
+
+.subtitle2 { font-family: Iceland; font-size: 45px; color: #4c0000; letter-spacing: 0pt; text-align: center; text-transform: uppercase; background-color: #none; padding: 0px 10px 5px 10px; text-shadow: 0px 3px 5px #000000;}
+
+.picture {
+ margin-top: 20px;
+ text-align: center;
+}
+
+.round-pic {
+ border-radius: 0px;
+ border: 15px solid #294257;
+}
+
+
+.active {
+ background-color: rgba(0,0,0,.8);
+ curser: pointer;
+ color: cyan;
+ transition: .5s;
+}
+ 
+a {
+ text-decoration: none;
+ opacity: 0.4;
+}
+ 
+a:hover {
+ color: #ffffff;
+ transition: .5s;
+}
+
+.clickable {
+display:inline;
+text-decoration: none;
+border: 0px solid #0fd1b7;
+border-bottom: 0px solid #0fd1b7;
+border-radius: 0px 0px 0px 0px;
+margin-right:24px;
+cursor:pointer;
+opacity: 0.5;
+background-color: #none;
+padding: 0px;
+color: #3358bd;
+letter-spacing: 3px; font-size: 10px; text-align: right; font-family: Iceland;
+}
+
+a:hover {
+background-color: #none;
+font-family: Iceland;
+color: #ffffff;
+letter-spacing: 0px;
+text-decoration: none;
+transition:all 1s ease-out;
+-o-transition:all 1s ease-in-out;
+-moz-transition:all 1s ease-in-out;
+-webkit-transition:all 1s ease-in-out;
+opacity: 1; 
+filter:alpha(opacity=20); -moz-opacity: 0.9; 
+-webkit-transition: all 0.9s ease; 
+-moz-transition: all 0.9s ease; 
+-o-transition: all 0.9s ease;
+}
+
+
+img {opacity: 1; 
+filter:alpha(opacity=20); -moz-opacity: 0.2; 
+-webkit-transition: all 0.9s ease; 
+-moz-transition: all 0.9s ease; 
+-o-transition: all 0.9s ease;}
+
+img:hover {opacity: 1; filter:alpha(opacit
+y=100); -moz-opacity: 1; -webkit-transition
+: all 0.9s ease; -moz-transition: all 0.9s 
+ease; -o-transition: all 0.9s ease;}
+
+
+
+B2 {
+font-family: Iceland;
+line-height:100%;
+color: #711E23;
+background-color: #none;
+letter-spacing: 0pt;
+padding: 2px 2px 2px 2px;
+text-transform: uppercase;
+text-shadow: 0px 0px 5px #000000; 
+}
+
+
+</style>
+
+
+
+
+
+
+<DIV style="position: fixed; bottom:100px; left:100px;">
+
+<div style="opacity: 0.5; border: 20px solid #080808;">
+
+<img src="https://i.postimg.cc/8cr1Q0pr/h-H2x-USJ.gif" height="400px">
+
+</div></div>
+
+
+
+
+
+
+
+<DIV style="position: fixed; bottom:335px; left:155px;">
+
+<div style="opacity: 0.6; border: 15px solid #080808;">
+
+<img src="https://i.postimg.cc/HWfMcG74/0o-QDCx2.png" height="120px">
+
+</div></div>
+
+
+
+
+<DIV style="position: fixed; bottom:165px; left:155px;">
+
+<div style="opacity: 0.6; border: 15px solid #080808;">
+
+<img src="https://i.postimg.cc/YSqLKMJH/images-q-tbn-ANd9Gc-Qj-Wazw-QOo1OZv68f-Jl-J8V2Gb-CFkn-OGoi-QRg-usqp-CAU.jpg" height="120px" width="120px">
+
+</div></div>
+
+
+
+
+
+<DIV style="position: fixed; bottom:460px; left: 340px;height:25px">
+ 
+ 
+<div style=" background-color: rgba(0, 0, 0, 0); width:190px; height:270px; border-radius: 0px 0px 0px 0px; border: 15px solid #080808; overflow:auto; padding: 15px">
+ 
+<center>
+<div style="width:180px; height:260px; padding: 5px; overflow:auto;">
+ 
+
+<font face="Iceland"color="#7D0000" size="3pt">
+
+<div align="justify">
+<b>Stat</b> STAT
+<p>
+<p>
+<b2><I>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+<br><br>
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</I></b2>
+
+</div>
+</div>
+</DIV>
+</div>
+</div>
+ 
+ 
+
+
+
+<DIV style="position: fixed; bottom:510px; left:390px;">
+ 
+<div class="subtitle"><b>Alastor</b></div>
+
+
+<DIV style="position: fixed; bottom:530px; left:110px;">
+ 
+<div class="subtitle2">The Radio Demon</div>
+
+
+	<img src="https://i.postimg.cc/B676GF2g/T6m-Eu-NP.png" style="position:fixed; 
+
+	max-height: 100%; 
+	max-width: 1000px; 
+	right:390px; 
+	bottom:-5px; 
+	z-index:-9; 
+	">
